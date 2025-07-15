@@ -1,0 +1,12 @@
+langchain==0.3.68
+langchain-community==0.3.27
+langchain-core==0.3.68
+langchain-chroma==0.2.4
+langchain-nomic==0.1.4
+langchain-openai==0.2.14
+langchain-text-splitters==0.2.1
+chromadb==1.0.15
+pymupdf==1.24.8
+python-dotenv==1.0.1
+openai==1.58.1
+nomic==3.0.12 
